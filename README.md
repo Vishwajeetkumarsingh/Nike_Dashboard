@@ -5,7 +5,7 @@
 This project involves the creation of an interactive Nike Sales Dashboard for the year 2021. The dashboard incorporates insights, performance metrics, and various visuals derived from the Nike US Sales Dataset and the nike_2020_04_13 dataset.
 
 ### Interactive Dashboard Link
-[Link to Interactive Dashboard](#)
+[Link to Interactive Dashboard](https://www.novypro.com/project/nike-dashboard-2021)
 
 ## Task List
 - **Download dataset**
@@ -55,8 +55,8 @@ The dashboard utilizes two tables: `Nike US Sales Dataset` and `nike_2020_04_13`
 | Last Visited     | Last visited date                      |
 
 
-- Link to the Dataset [Nike US Sales Dataset](#)
-- Link to the Dataset [nike_2020_04_13](#)
+- Link to the Dataset [Nike US Sales Dataset](https://github.com/Vishwajeetkumarsingh/Nike_Dashboard/blob/main/Data/Nike%20US%20Sales%20Datasets%20(1).xlsx)
+- Link to the Dataset [nike_2020_04_13](https://github.com/Vishwajeetkumarsingh/Nike_Dashboard/blob/main/Data/nike_2020_04_13.csv)
 ## Overview Page
 
 ![Overview Page Image](Images/Overview.png)
